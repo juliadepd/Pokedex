@@ -1,0 +1,22 @@
+Melhorias projeto Ju:
+
+
+
+Filtro por nome e outros campos
+
+Qtd de itens por página
+
+Paginação
+
+Opção de limpar busca
+
+Colocar tipo de Pokémon
+
+Padronização do código (prettier e lint)
+
+
+Próximo passo:
+
+
+
+Passar projeto para React com as melhorias
